@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram name="第 1 页" id="NOr42yXCUKmefgVZ24sN">
-    <mxGraphModel dx="890" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1855" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,31 +62,31 @@
           <mxGeometry height="40" width="180" x="545" y="230" as="geometry" />
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(4) Identity Verification&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; Generate Session Key&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="690" y="270" as="geometry" />
+          <mxGeometry height="40" width="130" x="690" y="250" as="geometry" />
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-32" parent="1" style="text;whiteSpace=wrap;html=1;" value="$$K_s, N_b, Cred$$" vertex="1">
-          <mxGeometry height="40" width="140" x="711.76" y="290" as="geometry" />
+          <mxGeometry height="40" width="140" x="711.76" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="z25E2ikE3pw0LlSkzHaf-33" edge="1" parent="1" source="x-cXfLVrqDk0xj9zhy-1-8" style="endArrow=classic;html=1;rounded=0;entryX=0.368;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.37;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;" target="x-cXfLVrqDk0xj9zhy-1-7" value="">
+        <mxCell id="z25E2ikE3pw0LlSkzHaf-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.368;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.37;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="682" y="331" as="sourcePoint" />
-            <mxPoint x="690" y="310" as="targetPoint" />
+            <mxPoint x="685.0000000000001" y="330.9399999999999" as="sourcePoint" />
+            <mxPoint x="525.2299999999999" y="329.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-34" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(5) Auth Response&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="550" y="300" as="geometry" />
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-35" parent="1" style="text;whiteSpace=wrap;html=1;" value="$$\{K_s\}_\{enc\}, N_b, Cred$$" vertex="1">
-          <mxGeometry height="40" width="200" x="540" y="320" as="geometry" />
+          <mxGeometry height="40" width="200" x="535" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="z25E2ikE3pw0LlSkzHaf-36" edge="1" parent="1" source="x-cXfLVrqDk0xj9zhy-1-7" style="endArrow=classic;html=1;rounded=0;exitX=0.439;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" target="x-cXfLVrqDk0xj9zhy-1-6" value="">
+        <mxCell id="z25E2ikE3pw0LlSkzHaf-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.439;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="371" as="sourcePoint" />
-            <mxPoint x="370" y="370" as="targetPoint" />
+            <mxPoint x="522.24" y="369.99999999999994" as="sourcePoint" />
+            <mxPoint x="365.00000000000006" y="369.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-38" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(6) Relay Response&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="394.86" y="340" as="geometry" />
+          <mxGeometry height="40" width="140" x="390" y="340" as="geometry" />
         </mxCell>
         <mxCell id="z25E2ikE3pw0LlSkzHaf-39" parent="1" style="text;whiteSpace=wrap;html=1;" value="$$\{K_s\}_\{enc\}, N_b, Cred$$" vertex="1">
           <mxGeometry height="40" width="200" x="377.59000000000003" y="360" as="geometry" />
