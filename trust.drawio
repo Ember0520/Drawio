@@ -13,6 +13,12 @@
         <mxCell id="CBuw2kPXSXUpCCH_Dw96-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" value="" vertex="1">
           <mxGeometry height="47" width="40" x="220" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="CBuw2kPXSXUpCCH_Dw96-4" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=none;strokeColor=#6c8ebf;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.data_management;network2IconW=0.8252;network2IconH=0.9989;" value="" vertex="1">
+          <mxGeometry height="49.945" width="41.260000000000005" x="393" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="CBuw2kPXSXUpCCH_Dw96-5" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" value="" vertex="1">
+          <mxGeometry height="59" width="49" x="580" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
